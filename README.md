@@ -1,5 +1,5 @@
 # Consensus-Based Current Sharing in DC Microgrids
-
+Paper in International Symposium on Electrical and Electronics Engineering (ISEE)
 ## Report Overview
 This report introduces a flexible consensus mechanism for current allocation in DC microgrids. Motivated by mismatched current sharing in droop-controlled systems due to line impedance variations, it integrates a discrete-time consensus algorithm with droop control to estimate current errors and adapt droop resistance. Simulations on a three-DG setup show a fast, oscillation-free startup (~15 ms) and robust recovery after a 0.3 s load step (~50 ms), while generator currents converge to a common setpoint in ~0.25 s with overshoot kept within limits. The results demonstrate improved power-sharing accuracy and better synchronization across units.
 
